@@ -1,5 +1,5 @@
-[README.md](https://github.com/user-attachments/files/31300015/README.md)
-# TheGmod.Club Spawnmenu Theme
+
+# Vibe UI Spawnmenu Theme
 
 A client-side addon that reskins the Garry's Mod spawn menu (hold `Q`) to match
 the TheGmod.Club brand — dark surfaces, a subtle grid, a soft purple glow, and
